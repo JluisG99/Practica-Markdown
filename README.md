@@ -15,7 +15,7 @@ Miguel de Cervantes (1605)
 ## Enlaces a paginas web  
 
 [Sitio web de la UCR](https://www.ucr.ac.cr/)  
-![Logo de la UCR](![image](https://user-images.githubusercontent.com/101078246/164471930-42ea7dcf-b10e-4d54-99b0-fc47fb569c18.png)
+![Logo de la UCR](https://user-images.githubusercontent.com/101078246/164471930-42ea7dcf-b10e-4d54-99b0-fc47fb569c18.png)
 
 ## Para las imagenes 
  Se debe usar el siguiente comando: ![]() y dentro del paréntesis redondo añadir la dirección
