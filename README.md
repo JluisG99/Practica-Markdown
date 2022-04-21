@@ -18,11 +18,10 @@ Miguel de Cervantes (1605)
 ![Logo de la UCR](https://user-images.githubusercontent.com/101078246/164471930-42ea7dcf-b10e-4d54-99b0-fc47fb569c18.png)
 ## Paa las imágenes locales ![]()
 
-![](Analisis-Vegetacion-RGB-firma-espectral)  
+![](Analisis-Vegetacion-RGB-firma-espectral.JPG)  
 
 ## Para las imagenes 
  Se debe usar el siguiente comando: ![]() y dentro del paréntesis redondo añadir la dirección
-![](Analisis-Vegetacion-RGB-firma-espectral.png)
 
 ![](https://www.iberdrola.com/documents/20125/40921/machine_learning_746x419.jpg/15ff7571-4cfc-d9f0-5ef4-9c2e9306ad88?t=1627968463400)
 
