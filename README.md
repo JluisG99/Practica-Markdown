@@ -16,7 +16,10 @@ Miguel de Cervantes (1605)
 
 [Sitio web de la UCR](https://www.ucr.ac.cr/)
 
-## Para las imagenes
+## Para las imagenes 
+ Se debe usar el siguiente comando: ![]() y dentro del paréntesis redondo añadir la dirección
+
+![](https://www.iberdrola.com/documents/20125/40921/machine_learning_746x419.jpg/15ff7571-4cfc-d9f0-5ef4-9c2e9306ad88?t=1627968463400)
 
 ![LogoR](LogoR.png)
 
