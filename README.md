@@ -34,7 +34,7 @@ Miguel de Cervantes (1605)
 ## Tamaño modificado con HTML
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png
-" alt="Girl in a jacket" width="500" height="600">
+" alt="Girl in a jacket" width="624" height="312">
 
 ## Listas  
 
