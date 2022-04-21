@@ -16,8 +16,9 @@ Miguel de Cervantes (1605)
 
 [Sitio web de la UCR](https://www.ucr.ac.cr/)  
 ![Logo de la UCR](https://user-images.githubusercontent.com/101078246/164471930-42ea7dcf-b10e-4d54-99b0-fc47fb569c18.png)
-## Paa las imágenes locales
+## Paa las imágenes locales ![]()
 
+![](Analisis-Vegetacion-RGB-firma-espectral)
 ## Para las imagenes 
  Se debe usar el siguiente comando: ![]() y dentro del paréntesis redondo añadir la dirección
 
