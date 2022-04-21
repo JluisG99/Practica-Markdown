@@ -21,10 +21,11 @@ Miguel de Cervantes (1605)
 ![](Analisis-Vegetacion-RGB-firma-espectral)
 ## Para las imagenes 
  Se debe usar el siguiente comando: ![]() y dentro del paréntesis redondo añadir la dirección
+![](Analisis-Vegetacion-RGB-firma-espectral.png)
 
 ![](https://www.iberdrola.com/documents/20125/40921/machine_learning_746x419.jpg/15ff7571-4cfc-d9f0-5ef4-9c2e9306ad88?t=1627968463400)
 
-![LogoR](LogoR.png)
+![LogoR](LogoR.jpg)
 
 ![LogoR](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png)
 
