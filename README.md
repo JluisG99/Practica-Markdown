@@ -33,8 +33,7 @@ Miguel de Cervantes (1605)
 
 ## Tamaño modificado con HTML
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png
-" alt="Logo R" width="624" height="312">
+<img src="Analisis-Vegetacion-RGB-firma-espectral.jpg" alt="Logo R" width="624" height="312">
 
 ## Listas  
 
